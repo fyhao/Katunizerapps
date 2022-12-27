@@ -1,3 +1,3 @@
 What's new
 
-At 2022-12-27, we are preparing Testflight release for Katunizer apps
+At 2022-12-27, we are preparing Testflight release for Katunizer apps, it is in progress for app review.
